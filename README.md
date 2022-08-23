@@ -1,0 +1,2 @@
+# Ace Digital Data Science Assessment
+This repository contains my answers to [Ace Digital Data Science Assessment](PreScreen_DSAI_r3.pdf). Check my answers in [Q1.ipynb](Q1.ipynb), [Q2.ipynb](Q2.ipynb) and [Q3.ipynb](Q3.ipynb) respectively. The datasets used in this assessment are located in folder [data](./data). Thanks for the opportunity! Hope to hear from you soon!
